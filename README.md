@@ -7,5 +7,5 @@
 - 💬 Ask me about ... food, books, and project managment/cybersecuity 
 - 📫 How to reach me: ... www.linkedin.com/in/morenikeirving
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ...  My guilty pleasure is Food Network 
+- ⚡ Fun fact: ... Food Network is my guilty pleasure!
 
