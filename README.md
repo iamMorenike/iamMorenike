@@ -205,7 +205,6 @@ applying to security:
 - **Security Architect (strategic)** → design programs and evaluate solutions with depth
 - **GRC Manager with technical depth** → compliance + understanding implementation
 - **Technical Product Manager (security)** → bridge engineering and business
-- **CISO track roles** → combine strategic vision with technical understanding
 
 **what makes me different:**
 - can manage programs AND understand implementation
